@@ -1,0 +1,7 @@
+本项目适合初学者学习网络知识。 项目中用到一下几种网络请求方式： 
+（1）：HttpClient 方式获取网络数据 
+（2）: HttpURLConnection 使用原始方式获取数据 
+（3）: Volley 方式实现图片加载 
+（4）：XUtil方式获取网络 
+（5）：ImageLoader 方式加载图片 
+（6）：OkHttp 方式获取网络请求
